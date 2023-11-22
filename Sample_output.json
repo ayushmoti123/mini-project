@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Donald Trump: Hackers claim ex-president dead on son's X account",
+    "description": "The post was among a string of now-deleted messages on his son's account.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-66869455",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1405E/production/_131141028_gettyimages-1247697240.jpg",
+    "publishedAt": "2023-09-20T15:52:19.1754045Z",
+    "content": "Donald Trump Jr's account on X posted that his father had died, in a series of messages placed by a hacker on Wednesday.\r\nIn a string of now deleted posts, the account claimed his father had died and… [+1598 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Police taser school band director at football game",
+    "description": "The Birmingham Police Department has released bodycam footage of the incident.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-66869906",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2B06/production/_131141011_p0gfpdxq.jpg",
+    "publishedAt": "2023-09-20T15:22:18.337227Z",
+    "content": "A high school band director was stunned by police after refusing to end a show at a football stadium in Alabama.\r\nJohnny Mims, 39, and his students were on their final number when police approached, … [+628 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Hunter Biden to plead not guilty to gun charges",
+    "description": "A lawyer says the US president's son wants to appear in court remotely, but prosecutors are opposed.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-66862009",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10E27/production/_131095196_biden-reuters.jpg",
+    "publishedAt": "2023-09-20T15:07:25.0343725Z",
+    "content": "Media caption, Watch: Why Hunter Biden is important to Republicans\r\nUS President Joe Biden's son, Hunter, will plead not guilty to three criminal charges relating to a gun purchase he made in 2018, h… [+3590 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "US attorney general Merrick Garland to face House Judiciary Committee",
+    "description": "Merrick Garland's appearance at the House Judiciary Committee follows the indictment of the US President's son Hunter Biden.",
+    "url": "http://www.bbc.co.uk/news/live/world-us-canada-66868827",
+    "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+    "publishedAt": "2023-09-20T14:07:33.9719432Z",
+    "content": "Merrick Garland, 70, has been the US Attorney General since March 2021, two months after being nominated for the role by President Biden. \r\nBefore that, he was chief judge of the Washington appeals c… [+695 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "India warns citizens in Canada to be cautious",
+    "description": "The advisory comes a day after tensions between the countries escalated over the killing of a Sikh separatist.",
+    "url": "http://www.bbc.co.uk/news/world-asia-india-66851960",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1608C/production/_131125209_gettyimages-1674816974-594x594.jpg",
+    "publishedAt": "2023-09-20T11:52:23.593027Z",
+    "content": "India has issued an advisory urging its citizens travelling to or living in Canada to \"exercise utmost caution\".\r\nThe advisory comes a day after tensions escalated between the countries with each exp… [+2678 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Nagorno-Karabakh forces agree Azerbaijan demand to disarm",
+    "description": "Twenty-four hours into an Azerbaijan army offensive, ethnic-Armenian forces agree terms for a ceasefire.",
+    "url": "http://www.bbc.co.uk/news/world-europe-66863702",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0E83/production/_115651730_breaking-promo-976.png",
+    "publishedAt": "2023-09-20T09:22:16.624389Z",
+    "content": "Twenty-four hours after Azerbaijan's army launched an offensive in Nagorno-Karabakh, ethnic-Armenian forces have agreed Russian terms for a ceasefire.\r\nOne of the key demands that Karabakh forces hav… [+277 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Net zero: Suella Braverman backs Rishi Sunak's move to weaken green policies",
+    "description": "The ban on sales of new petrol cars could move from 2030 to 2035, and the phasing out of gas boilers delayed.",
+    "url": "http://www.bbc.co.uk/news/live/uk-66863110",
+    "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+    "publishedAt": "2023-09-20T07:37:20.8896801Z",
+    "content": "Hello, you join us amid the news that Rishi Sunak is thinking about weakening some of the governments\r\nkey green commitments in a major policy shift.\r\nThis could mean delaying a ban on selling new pe… [+514 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Bijou Phillips to divorce Danny Masterson after rape sentencing - reports",
+    "description": "She cites irreconcilable differences, two weeks after the convicted rapist blew a kiss to her in court.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-66862067",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/77B3/production/_131134603_gettyimages-1258328899.jpg",
+    "publishedAt": "2023-09-20T02:37:14.2950877Z",
+    "content": "US actress Bijou Phillips has reportedly filed for divorce from Danny Masterson less than two weeks after the That '70s Show star was jailed for two rapes.\r\nMs Phillips, 43, cited \"irreconcilable dif… [+2154 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Elon Musk woos world leaders, courting controversy",
+    "description": "Foreign leaders visiting the US are more enthusiastic than ever to meet with the world's richest man.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-66777096",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/109AD/production/_131131086_06_elon_musk_index_image_976x549.png",
+    "publishedAt": "2023-09-19T23:37:18.0663037Z",
+    "content": "He is \"very impressed\" with Emmanuel Macron. Narendra Modi can count him as \"a fan\". And Benjamin Netanyahu just dropped in to see him.\r\nA parade of foreign leaders on recent US trips, including on o… [+9624 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Fentanyl found under nap mats at New York nursery kills child - US officials",
+    "description": "The deadly drug was found under mats that children use for naps, investigators say.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-66861588",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4F12/production/_131124202_captur325324e.jpg",
+    "publishedAt": "2023-09-19T22:37:18.671403Z",
+    "content": "A kilogram of fentanyl was found under nap mats at a nursery in New York where one child died and three others were taken to hospital, police say.\r\nPolice believe the children, ranging in age from 8 … [+3363 chars]"
+    }
+    ]
+    }
